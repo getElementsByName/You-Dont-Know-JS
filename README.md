@@ -1,3 +1,5 @@
+- 플레이스개발1 스터디 자료
+
 # You Don't Know JS Yet (book series) - 2nd Edition
 
 This is a series of books diving deep into the core mechanisms of the JavaScript language.
